@@ -11,9 +11,18 @@
   </url>
   
   <url>
-    <loc>https://fengli-ruomeng.github.io/Starless/2026/04/22/WhoLoseTest/</loc>
+    <loc>https://fengli-ruomeng.github.io/Starless/1468/02/12/Logs-2/</loc>
     
-    <lastmod>2026-04-22</lastmod>
+    <lastmod>2026-04-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://fengli-ruomeng.github.io/Starless/1464/03/21/Logs-1/</loc>
+    
+    <lastmod>2026-04-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
